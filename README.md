@@ -1,9 +1,18 @@
-### Olá! Eu sou Marcos R. J. Santos. 👋
+### Olá! 👋
 
-- 🔭 No momento, estou trabalhando como Customer Support Analyst I.
-- 🌱 Estou no Bootcamp "Carrefour Web Developer" na DIO.
-- 🌱 Também estou no Bootcamp Java Developer na DIO.
+#### Re-Construindo os fundamentos de meu conhecimento em algumas linguagens
+
+#####  O Agora!
+
+  🔭 No momento, trabalhando como Customer Support Analyst I.
+  🌱 No Bootcamp "Carrefour Web Developer" na DIO.
+  🌱 Também no Bootcamp Java Developer na DIO.
+
+##### BIO
+
 - 👯 Eu estou procurando me readaptar as linguagens.
+- ⚙️ Já conheço e utilizei: `.html`, `.css`, `.php`, `.delphi`
+- 🌱 *Open Source*
 - 🤔 Estou procurando ajuda com as melhores formas de aprendizado.
 - 💬 Delphi ainda é relevante?
 
