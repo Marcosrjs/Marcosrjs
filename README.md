@@ -4,7 +4,7 @@
 - 🌱 Estou no Bootcamp "Carrefour Web Developer" na DIO.
 - 🌱 Também estou no Bootcamp Java Developer na DIO.
 - 👯 Eu estou procurando me readaptar as linguagens.
-- 🤔 Estou procurando ajuda com as memlhores formas de aprendizado.
+- 🤔 Estou procurando ajuda com as melhores formas de aprendizado.
 - 💬 Delphi ainda é relevante?
 
 ##
@@ -17,4 +17,4 @@
   
   ##
   
-  
+### Em construção... 🚧 👷‍.
