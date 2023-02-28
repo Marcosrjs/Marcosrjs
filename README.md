@@ -5,8 +5,8 @@
 #####  O Agora!
 
   🔭 No momento, trabalhando como Customer Support Analyst I.
-  🌱 No Bootcamp "Carrefour Web Developer" na DIO.
-  🌱 Também no Bootcamp Java Developer na DIO.
+  🌱 No Bootcamp "Banco PAN Java Developer" na DIO.
+  🌱 ...
 
 ##### BIO
 
